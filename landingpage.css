@@ -103,10 +103,7 @@ left:0;
 right:0;
 width:100%;
 }
-.submit{
-	width:20%;
-	text-align:center;
-}
+
 #title{
 	text-align:center;
 	font-size:60px;
@@ -206,6 +203,8 @@ width:10%;
 	border:solid 1px #FA6900;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	padding:10px 3px 10px 3px;
+	width:20%;
+	text-align:center;
 }
 
 .colorChange{
